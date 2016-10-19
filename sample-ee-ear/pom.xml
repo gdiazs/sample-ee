@@ -33,12 +33,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.guillermods</groupId>
-			<artifactId>sample-ee-ejb</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<type>ejb</type>
-		</dependency>
-		<dependency>
-			<groupId>com.guillermods</groupId>
 			<artifactId>sample-ee-web</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<type>war</type>
